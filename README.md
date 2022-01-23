@@ -1,4 +1,4 @@
-# MetalFinder
+# MetalFinder (Insert rest in the same format as DeepStruc)
 MetalFinder is a tree-based supervised learning algorithm which can predict the Mono-Metallic Nanoparticle (MMNP) from a Pair Distribution Function (PDF).
 
 ![alt text](images/MetalFinder.png "MetalFinder")
