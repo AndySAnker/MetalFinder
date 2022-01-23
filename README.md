@@ -1,5 +1,5 @@
 # MetalFinder
-MetalFinder is a tree-based supervised learning algorithm which can predict the Mono-Metallic Nanoparticle (MMNP) from a Pair Distribution Function.
+MetalFinder is a tree-based supervised learning algorithm which can predict the Mono-Metallic Nanoparticle (MMNP) from a Pair Distribution Function (PDF).
 
 ![alt text](images/MetalFinder.png "MetalFinder")
 
