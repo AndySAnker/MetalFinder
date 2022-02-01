@@ -10,16 +10,15 @@ Currently MetalFinder is limited to MMNPs with up to 200 atoms of the 7 differen
 Cubic (sc), body-centered cubic (bcc), face-centered cubic (fcc), hexagonal closed packed (hcp), decahedral, icosahedral and octahedral
 
 1. [MetalFinder](#metalfinder)
-2. [Getting started (with Colab)](#getting-started-with-colab)
-3. [Getting started (own computer)](#getting-started-own-computer)
+2. [Getting started (own computer)](#getting-started-own-computer)
     1. [Install requirements](#install-requirements)
     2. [Simulate data](#simulate-data)
     3. [Train model](#train-model)
     4. [Predict](#predict)
-4. [Author](#author)
-5. [Cite](#cite)
-6. [Acknowledgments](#Acknowledgments)
-7. [License](#license)  
+3. [Author](#author)
+4. [Cite](#cite)
+5. [Acknowledgments](#Acknowledgments)
+6. [License](#license)  
 
 
 # Getting started (own computer)
