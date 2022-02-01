@@ -75,14 +75,5 @@ author={Emil T. S. Kjær, Andy S. Anker, Marcus N. Weng1, Simon J. L. Billinge, 
 year={2022}}
 ```
 
-# Acknowledgments
-Our code is developed based on the the following publication:
-```
-@article{anker2020characterising,
-title={Characterising the atomic structure of mono-metallic nanoparticles from x-ray scattering data using conditional generative models},
-author={Anker, Andy Sode and Kjær, Emil TS and Dam, Erik B and Billinge, Simon JL and Jensen, Kirsten MØ and Selvan, Raghavendra},
-year={2020}}
-```
-
 # License
 This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3 - see the [LICENSE.md](LICENSE.md) file for details.
