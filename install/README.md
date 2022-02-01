@@ -16,17 +16,17 @@ DiffPy-CMI might be necessary for some functions of MetalFInder(see how to [HERE
 ### Simulate Data
 Install through the install.sh file.
 ```
-sh install_simulate.sh
+sh install_bash_files/install_simulate.sh
 ``` 
 ### Training
 Install through the install.sh file.
 ```
-sh install_training.sh
+sh install_bash_files/install_training.sh
 ``` 
 
 ### Testing
 Install through the install.sh file.
 ```
-sh install_testing.sh
+sh install_bash_files/install_testing.sh
 ``` 
 
