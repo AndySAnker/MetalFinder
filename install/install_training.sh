@@ -1,0 +1,1 @@
+pip3 install -r "Training_requirements.txt" || pip install -r "Training_requirements.txt"
