@@ -34,6 +34,10 @@ jupyter notebook 1_Simulate_Data.ipynb
 ```
 Follow the instructions in the 1_Simulate_Data.ipynb file.
 
+To download the xyz-files (atomic models) and PDF dataset instead of simulating both locally, see the [data](/data) folder.
+
+ 
+
 ## Train model
 To train your own MetalFinder model simply run:
 ```
