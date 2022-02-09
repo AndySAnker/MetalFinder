@@ -101,7 +101,7 @@ def ML(X_train, y_train, X_val, y_val, model, n_threads, n_epochs, xyz_path): #U
     print ("Time spent on training model:", (time.time()-start_time)/60, " min")
     return model, store #model.evals_result() #, (time.time()-start_time)/60
     
-def plot_loss_curve(Results, savefigure):
+def plot_loss_curve(results, savefigure):
     train_loss = results["train"]["mlogloss"]
     val_loss = results["val"]["mlogloss"]
     
