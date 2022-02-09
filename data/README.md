@@ -17,4 +17,4 @@ The xyz-files from 6 to 200 atoms are available to download from this link: http
 
 The PDF dataset simulated with seed 37 is available to download from this link: https://sid.erda.dk/share_redirect/hP36fSyP90
 
-The tree-based model trained with seed 37 and 100 PDFs/xyz-file in the training set and 15 PDFs/xyz-file in the validation set and the test set respectively is available to download from this link: https://sid.erda.dk/share_redirect/ev4rwOjEZo
+The tree-based model trained with seed 37 and 100 PDFs/xyz-file in the training set and 15 PDFs/xyz-file in the validation set and the test set respectively is available to download from this link: https://sid.erda.dk/share_redirect/drB2OBegwX
