@@ -43,7 +43,7 @@ To train your own MetalFinder model simply run:
 ```
 jupyter notebook 2_Training.ipynb
 ```
-Follow the instructions in the 2_Training.ipynb file.
+Follow the instructions in the 2_Training.ipynb file. To download the model used for prediction in the article, instead of training at your own computer, see the [data](/data) folder.
 
 ## Predict
 To predict a MMNP using MetalFinder or your own model on a PDF:
