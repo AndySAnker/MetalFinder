@@ -10,7 +10,7 @@ This readme contains instructions to generate the data used in this project and 
 [DiffPy-CMI](https://www.diffpy.org/products/diffpycmi/index.html) in required to simulate PDFs, which only runs on Linux or macOS. To run it on a Windows computer
 please use the [Ubuntu subsystem](https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview).
 
-The Metalfinder script is divided into three parts (Simulating data, training model, testing model). The first notebook (1_Simulating_data.ipynb) is used to simulate atomic models of metallic nanomarticles and from those simulate PDFs with varied parameters. In the article, atomic models are simulated in seven structure types (SC, BCC, FCC, HCP, Decahedron, Octahedron, Icosahedron) from 6 to 200 atoms. The PDF dataset is simulated with varied parameters with 100 PDFs per xyz-file in the training set, and 15 PDFs per xyz-file in the validation set as well as 15 PDfs per xyz-file in the test set.
+The Metalfinder script is divided into three parts (Simulating data, training model, testing model). The first notebook (1_Simulating_data.ipynb) is used to simulate atomic models of metallic nanomarticles and from those simulate PDFs with varied parameters. In the article, atomic models are simulated in seven structure types (sc, bcc, fcc, hcp, Decahedron, Octahedron, Icosahedron) from 6 to 200 atoms. The PDF dataset is simulated with varied parameters with 100 PDFs per xyz-file in the training set, and 15 PDFs per xyz-file in the validation set as well as 15 PDFs per xyz-file in the test set.
 
 # Download links
 The xyz-files from 6 to 200 atoms are available to download from this link: https://sid.erda.dk/share_redirect/bQUUaFwSMk
