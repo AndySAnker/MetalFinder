@@ -1,4 +1,4 @@
-[arXiv]XXX  |  [Paper] XXX
+[ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6221f17357a9d20c9a729ecb)  |  [Paper] XXX
 
 # Data introduction
 This readme contains download links to a zip folder with the simulated atomic models (xyz_files) and the simulated PDF dataset
