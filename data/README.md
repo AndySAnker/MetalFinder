@@ -12,9 +12,8 @@ please use the [Ubuntu subsystem](https://ubuntu.com/tutorials/ubuntu-on-windows
 
 The Metalfinder script is divided into three parts (Simulating data, training model, testing model). The first notebook (1_Simulating_data.ipynb) is used to simulate atomic models of metallic nanomarticles and from those simulate PDFs with varied parameters. In the article, atomic models are simulated in seven structure types (sc, bcc, fcc, hcp, Decahedron, Octahedron, Icosahedron) from 6 to 200 atoms. The PDF dataset is simulated with varied parameters with 100 PDFs per xyz-file in the training set, and 15 PDFs per xyz-file in the validation set as well as 15 PDFs per xyz-file in the test set.
 
-# Download links
-The xyz-files from 6 to 200 atoms are available to download from this link: https://sid.erda.dk/share_redirect/bQUUaFwSMk
-
-The PDF dataset simulated with seed 37 is available to download from this link: https://sid.erda.dk/share_redirect/hP36fSyP90
-
-The tree-based model trained with seed 37 and 100 PDFs/xyz-file in the training set and 15 PDFs/xyz-file in the validation set and the test set respectively is available to download from this link: https://sid.erda.dk/share_redirect/drB2OBegwX
+# [Download link](https://zenodo.org/record/6418055#.Yk2WIJNBzDI)
+The following can be downloaded from the download link: https://zenodo.org/record/6418055#.Yk2WIJNBzDI
+- The xyz-files from 6 to 200 atoms
+- The PDF dataset simulated with seed 37
+- The tree-based model trained with seed 37 and 100 PDFs/xyz-file in the training set and 15 PDFs/xyz-file in the validation set and the test set respectively
