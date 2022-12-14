@@ -1,4 +1,4 @@
-[ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6221f17357a9d20c9a729ecb)  |  [Paper] XXX
+[ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6221f17357a9d20c9a729ecb)  |  [Paper](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00086e)
 
 # Data introduction
 This readme contains instructions to generate the data used in this project and download links to a zip folder with the simulated atomic models (xyz_files) and the simulated PDF dataset
