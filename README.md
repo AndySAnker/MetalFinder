@@ -68,7 +68,7 @@ __Kirsten M. Ø. Jensen__<sup>1</sup>
 <sup>5</sup> Department of Neuroscience, University of Copenhagen, 2200, Copenhagen N.    
 
 Should there be any question, desired improvement or bugs please contact us on GitHub or 
-through email: __andy@chem.ku.dk__ or __etsk@chem.ku.dk__.
+through email: __ansoan@dtu.dk__ or __etsk@chem.ku.dk__.
 
 # Cite
 If you use our code or our results, please consider citing our paper. Thanks in advance!
